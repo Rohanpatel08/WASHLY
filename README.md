@@ -15,4 +15,3 @@ FEATURES:
 •	Order history
 •	Payment method
 
-project is an under development right now.
